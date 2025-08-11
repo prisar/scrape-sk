@@ -1,0 +1,278 @@
+Fetched page 0, total stories: 88
+Fetched page 1, total stories: 183
+Fetched page 2, total stories: 275
+[2025-08-10T15:33:06Z] Zig's Lovely Syntax (https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html) - 79 points by Bogdanp
+[2025-08-10T12:09:14Z] Arenas in Rust (https://russellw.github.io/arenas) - 2 points by thunderbong
+[2025-08-10T06:17:08Z] Turning any tokenizer into a greedy one (http://stephantul.github.io/blog/greedy/) - 1 points by stephantul
+[2025-08-09T14:47:36Z] Performance Pitfalls in C# / .NET – List Contains (https://richardcocks.github.io/2025-08-09-PerformancePitfalls.html) - 1 points by eterm
+[2025-08-09T12:20:16Z] A subtle bug with Go's errgroup (https://gaultier.github.io/blog/subtle_bug_with_go_errgroup.html) - 24 points by broken_broken_
+[2025-08-09T10:51:03Z] All About Transformer Inference (https://jax-ml.github.io/scaling-book/inference/) - 7 points by Bluestein
+[2025-08-09T10:48:10Z] How Confident Are You, ChatGPT? (https://aylinakkus.github.io/how-confident-are-you-chatgpt/) - 2 points by aylinakkus
+[2025-08-09T08:50:33Z] Partially Matching Zig Enums (https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html) - 138 points by ingve
+[2025-08-08T21:30:31Z] Undefined Behavior in C and C++ (https://russellw.github.io/undefined-behavior) - 5 points by imadr
+[2025-08-08T14:46:35Z] OverHAuL: Harnessing Automation for C Libraries with Large Language Models (https://kchousos.github.io/BSc-Thesis/) - 3 points by PaulHoule
+[2025-08-08T12:31:50Z] Distributed Systems 101 (https://mrinalxdev.github.io/mrinalxblogs/blogs/distributed-systems.html) - 1 points by gmays
+[2025-08-08T09:18:34Z] Virtual Threads with Java 24 – Will It Scale? (https://gaetanopiazzolla.github.io/java/2025/06/18/virtualthreads-java24.html) - 4 points by nromiun
+[2025-08-08T07:11:32Z] Zeppe-Lin 1.1 – A Minimal Source-Based Linux Distro (Crux Fork) (https://zeppe-lin.github.io) - 1 points by sighook
+[2025-08-08T06:19:54Z] On The Value of Abstractions (https://cekrem.github.io/posts/on-the-value-of-abstractions/) - 1 points by thunderbong
+[2025-08-08T05:46:35Z] A Full-Chain Exploit of an Unfused Qualcomm Device (https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html) - 3 points by timschumi
+[2025-08-07T22:17:12Z] Developers, Reinvented (https://ashtom.github.io/developers-reinvented) - 1 points by lawgimenez
+[2025-08-07T21:05:07Z] Common statistical tests are linear models (or: how to teach stats) (https://lindeloev.github.io/tests-as-linear/) - 1 points by sebg
+[2025-08-07T21:03:39Z] Rare events are hard to find (https://jesslgraves.github.io/posts/2025-08-02-rare-events-pt1/#rare-events-are-hard-to-find) - 3 points by sebg
+[2025-08-07T16:58:55Z] GPT-5 Coding Examples (https://openai.github.io/gpt-5-coding-examples/) - 2 points by Topfi
+[2025-08-07T16:09:41Z] Address Formats Around the World (https://w3c.github.io/i18n-drafts/questions/qa-address-formats.en.html) - 3 points by mooreds
+[2025-08-07T14:57:34Z] Creating the Longest Possible Ski Jump in "The Games: Winter Challenge" (https://mrwint.github.io/winter/writeup/writeup2.html) - 2 points by alberto-m
+[2025-08-07T14:53:34Z] The Zero-to-Vibe Coding Jumpstart Cube Catastrophication (https://vanonselenp.github.io/2025/08/04/jumpstart-cube-catastrophication/) - 1 points by terra_nera
+[2025-08-07T14:46:14Z] Moreshell tricks: first class lists, jq, and the es shell (https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html) - 41 points by alurm
+[2025-08-07T14:14:30Z] Global Trade Dynamics (https://alhadaqa.github.io/globaltradedynamics/) - 46 points by gmays
+[2025-08-07T10:13:30Z] Tone Mapping (2019) (https://64.github.io/tonemapping/) - 3 points by Bogdanp
+[2025-08-07T00:40:27Z] My blog on zero-knowledge cryptography (https://kaw101010.github.io/blogs/zk-proofs/) - 3 points by krishw
+[2025-08-07T00:37:39Z] Show HN: Adding 3D Visualization to a Web NES Emulator (https://ireallyhateyou.github.io/fami3d/tech.html) - 1 points by muslimgauzer
+[2025-08-06T22:06:08Z] CVE 2025-23266 (NVIDIAScape) – A Detailed writeup (https://kidbomb.github.io/posts/nvidia-container-escape-cve-2025-23266/) - 3 points by kidbomb
+[2025-08-06T21:26:04Z] Analyzing Control Flow More Like a Human [video] (http://wonks.github.io/germane/summer2025/2025/08/06/germane.html) - 14 points by matt_d
+[2025-08-06T17:39:47Z] Radshield: Software Radiation Protection for Commodity Hardware in Space (https://radshield.github.io/) - 3 points by wh313
+[2025-08-06T14:55:48Z] Where's That Shared Library (https://narang99.github.io/2025-07-28-linker-search/) - 7 points by thunderbong
+[2025-08-06T14:47:13Z] Claudebox – Claude Code Sandbox for Mac (https://greitas-kodas.github.io/claudebox/) - 1 points by dotpot
+[2025-08-06T14:03:41Z] Show HN: Bridge Days Calculator SPA (https://bridgedays.github.io/) - 1 points by FeepingCreature
+[2025-08-06T13:41:40Z] Diffuse-CLoC: Guided Diffusion for Physics-Based Character Look-Ahead Control (https://diffusecloc.github.io/website/) - 6 points by smusamashah
+[2025-08-06T06:39:01Z] Trig Spiders from Mars (https://alasdairrae.github.io/trigpillars/) - 2 points by drsim
+[2025-08-06T04:41:20Z] Porting GPU shaders to Rust 30x faster with AI (https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/) - 2 points by mpweiher
+[2025-08-06T01:51:27Z] Arenas in Rust (https://russellw.github.io/arenas) - 4 points by rwallace
+[2025-08-05T23:28:47Z] AI for Coding Is Inevitable (https://ashtom.github.io/developers-reinvented) - 5 points by stillsut
+[2025-08-05T20:46:38Z] What's wrong with the JSON gem API? (https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html) - 63 points by ezekg
+[2025-08-05T20:17:49Z] Show HN: Far Manager theme and palette configurator (https://deejayy.github.io/far-color-configurator/) - 2 points by deejayy
+[2025-08-05T15:39:43Z] Health Tech Security Policies and Procedures (https://open-access-policies.github.io/health-tech/) - 1 points by mooreds
+[2025-08-05T13:46:18Z] Developers, Reinvented (https://ashtom.github.io/developers-reinvented) - 2 points by blazzerbg
+[2025-08-05T11:55:46Z] The STUPID Manifesto (https://enolive.github.io/stupid-manifesto/) - 5 points by mooreds
+[2025-08-05T10:39:08Z] What's wrong with the JSON gem API? (https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html) - 2 points by sandstrom
+[2025-08-05T02:41:12Z] Show HN: Scratch Radio Ft Doctor Von Peel: An LLM / Cat-Based Apple Music Client (https://standard-default-and-grace.github.io/DoctorVonPeel/) - 2 points by gabriel666smith
+[2025-08-05T02:02:06Z] I learned to make AI videos using MediaRecorder (https://debamitro.github.io/blog/making-videos-with-media-recorder/) - 3 points by debamitro
+[2025-08-04T23:00:20Z] Developers, Reinvented (https://ashtom.github.io/developers-reinvented) - 3 points by azhenley
+[2025-08-04T22:39:45Z] Branch Prediction Demystified (https://joegm.github.io/blog/branch-prediction-demystified/) - 4 points by joemck
+[2025-08-04T22:28:24Z] FastWan: Generating a 5-Second Video in 5 Seconds via Sparse Distillation (https://hao-ai-lab.github.io/blogs/fastvideo_post_training/) - 12 points by wlsaidhi
+[2025-08-04T20:53:05Z] Rail Art (Build a Subway) (https://jabza.github.io/rail-art/?_hsenc=p2ANqtz-9ikEIf2TcOxOuHaXTzT0ZheCt989jnI0dsUlzZXXvgyXA6kJk7V8QeqvdS54Qzsu8pi-agllj0j2alhwCDLqQ_PE9_AA&_hsmi=374261484) - 1 points by rmason
+[2025-08-04T20:46:53Z] Destructive In-Order Tree Traversal (https://morwenn.github.io//algorithms/2025/08/03/TSB002-destructive-inrder-tree-traversal.html) - 1 points by todsacerdoti
+[2025-08-04T20:09:41Z] Show HN: Bookava – Your personal audiobook player (auto-speed 0.1x / 10min) (https://github.com/bookava/bookava.github.io) - 2 points by aaurelions
+[2025-08-04T15:56:40Z] Qwen-Image: Crafting with native text rendering (https://qwenlm.github.io/blog/qwen-image/) - 544 points by meetpateltech
+[2025-08-04T14:06:04Z] Developers, Reinvented (https://ashtom.github.io/developers-reinvented) - 12 points by mooreds
+[2025-08-04T12:30:18Z] Show HN: IRC /Whois Gallery (https://retlehs.github.io/irc-whois-gallery/) - 3 points by retlehs
+[2025-08-04T10:46:02Z] Open music foundation models for full-song generation (https://map-yue.github.io/) - 120 points by selvan
+[2025-08-04T09:57:19Z] Reveal – Read Eval Visualize Loop for Clojure – Adds Graphviz Viewer (https://vlaaad.github.io/reveal/feature/graphviz) - 1 points by vlaaad
+[2025-08-04T04:55:11Z] What is the average length of a queue of cars? (2023) (https://e-dorigatti.github.io/math/2023/11/01/queue-length.html) - 37 points by alexmolas
+[2025-08-04T02:14:48Z] LLMs won't save you from bad software engineering culture (https://atelfo.github.io/2025/08/03/llms-and-software-development.html) - 3 points by Atelfo
+[2025-08-03T22:55:28Z] Names are not type safety (2020) (https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/) - 56 points by azhenley
+[2025-08-03T19:58:55Z] Critcl – C Runtime in Tcl (https://andreas-kupries.github.io/critcl/) - 54 points by ofalkaed
+[2025-08-03T19:28:25Z] Show HN: Spatial Web Browser Engine (https://m-creativelab.github.io/jsar-runtime/) - 20 points by yorkie
+[2025-08-03T14:11:00Z] 1-Based Indexing Is the Better Way to Access Arrays (https://new-af.github.io/blog/1-based-array-indexing) - 3 points by _adev
+[2025-08-03T12:18:21Z] What's wrong with the JSON gem API? (https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html) - 4 points by thunderbong
+[2025-08-03T09:33:04Z] Building an In-Memory Filesystem Driver from Scratch (https://timofey256.github.io/blog/2025/fsys-driver/) - 2 points by timothynabokov
+[2025-08-03T05:33:25Z] Dynamic programming bursting balloons (https://sylhare.github.io/2025/07/29/bursting-balloons.html) - 1 points by thunderbong
+[2025-08-03T00:32:30Z] Show HN: Realtime Magic-Eye Mirror (https://namuol.github.io/magic-eye-mirror/) - 2 points by namuol
+[2025-08-02T22:30:11Z] Show HN: SQRZ: An addictive fast-paced matching game, built in Godot (https://jasonjmcghee.github.io/sqrz/) - 3 points by jasonjmcghee
+[2025-08-02T20:43:20Z] Deep Dive into Yann LeCun's JEPA (https://rohitbandaru.github.io/blog/JEPA-Deep-Dive/) - 6 points by brandonb
+[2025-08-02T16:37:35Z] The creative tension between developer and language (https://krishna.github.io/posts/creative-tension-between-developer-and-language/) - 18 points by kenshi
+[2025-08-02T14:09:12Z] Show HN: WebGPU enables local LLM in the browser – demo site with AI chat (https://andreinwald.github.io/browser-llm/) - 145 points by andreinwald
+[2025-08-02T14:05:48Z] A Library Approach to Constant Template Parameters (https://brevzin.github.io/c++/2025/08/02/ctp-reflection/) - 1 points by ibobev
+[2025-08-02T11:31:05Z] Phi-Ground: Advancing Perception in GUI Grounding (https://zhangmiaosen2000.github.io/Phi-Ground/) - 2 points by diwank
+[2025-08-02T10:05:01Z] GHCup discontinued (or why you should use Nix) (2025) (https://hasufell.github.io/posts/2025-04-01-use-nix.html) - 3 points by qrobit
+[2025-08-02T06:29:17Z] Langton's Ant (https://haebom.github.io/Langton/) - 2 points by haebom
+[2025-08-02T05:09:16Z] Libvirt – incremental backups for raw devices (https://abbbi.github.io/datafile/) - 7 points by Bogdanp
+[2025-08-02T02:33:21Z] Clojure Civitas – Publish Clojure Ideas and Explorations (https://github.com/ClojureCivitas/clojurecivitas.github.io) - 64 points by TheWiggles
+[2025-08-01T20:05:11Z] Decasing Transformers for Fun (http://stephantul.github.io/tokenization/casing/2025/08/01/uncasing/) - 3 points by stephantul
+[2025-08-01T18:09:35Z] Reveal – Read Eval Visualize Loop for Clojure – Adds Graphviz Viewer (https://vlaaad.github.io/reveal/feature/graphviz) - 16 points by vlaaad
+[2025-08-01T16:06:40Z] ASCII Art Signatures in the Wild (2012) (http://geon.github.io/programming/2012/04/25/ascii-art-signatures-in-the-wild) - 3 points by speckx
+[2025-08-01T15:01:31Z] Learning the Bitter Lesson (https://rlancemartin.github.io/2025/07/30/bitter_lesson/) - 2 points by kiyanwang
+[2025-08-01T13:02:11Z] SuperClaude v3 – Advanced Development Framework for Claude Code (https://superclaude-org.github.io/) - 2 points by l2dy
+[2025-08-01T08:55:29Z] Consistent MySQL Structure.sql Diffs for Rails (https://lovro-bikic.github.io/consistent-mysql-structure-sql-diffs-rails/) - 2 points by amalinovic
+[2025-08-01T00:02:56Z] A memory safe C framework, RAII, I/O, coroutine and other concurrency primitives (https://zelang-dev.github.io/c-asio/) - 18 points by thetechstech
+[2025-07-31T23:53:00Z] Bup: It Backs Things Up (https://bup.github.io/) - 11 points by williamstein
+[2025-07-31T22:33:26Z] Syntax highlighting of Python code in Python (https://fatih-erikli-potato.github.io/syntax-highlighting-in-python.html) - 3 points by fatih-erikli-cg
+[2025-07-31T22:22:20Z] Let the Kaleidoscope Turn (https://shabie.github.io/2025/07/31/let-the-kaleidoscope-turn.html) - 2 points by shabie
+[2025-07-31T20:20:39Z] Interpolating a Bezier Curve (https://fatih-erikli-potato.github.io/interpolating-a-bezier-curve.html) - 2 points by fatih-erikli-cg
+[2025-07-31T17:16:22Z] Nvidia CUDA-Q (https://nvidia.github.io/cuda-quantum/latest/index.html) - 3 points by jonbaer
+[2025-07-31T17:06:41Z] I wrote a Kalaha solver and got my mind blown in the process (https://vlaaad.github.io/kalaha) - 2 points by vlaaad
+[2025-07-31T14:56:24Z] Do LLMs identify fonts? (https://maxhalford.github.io/blog/llm-font-identification/) - 64 points by alexmolas
+[2025-07-31T14:04:47Z] Global Constraint Catalog (https://sofdem.github.io/gccat/gccat/index.html) - 4 points by todsacerdoti
+[2025-07-31T12:30:32Z] Show HN: Boarda – Native Graphical Outliner with a Novel Layout (https://thabetx.github.io/boarda2) - 2 points by thabetx
+[2025-07-31T12:20:40Z] LLGuidance: Making Structured Outputs Go Brrr (https://guidance-ai.github.io/llguidance/llg-go-brrr) - 2 points by nchammas
+[2025-07-30T22:34:47Z] The Ski Rental Problem (https://lesves.github.io/articles/ski-rental/) - 90 points by skywalqer
+[2025-07-30T18:39:06Z] Dynamic programming bursting balloons (https://sylhare.github.io/2025/07/29/bursting-balloons.html) - 16 points by ingve
+[2025-07-30T15:27:44Z] Building a Mental Model AI (https://johnoct.github.io/blog/building-mental-model-ai-learning-focused-chat-mode/) - 2 points by tsaifu
+[2025-07-30T15:23:03Z] Popping the AGI Bubble (https://seanpedersen.github.io/posts/agi-bubble) - 5 points by sean_pedersen
+[2025-07-30T14:07:46Z] Device Bound Session Credentials (https://w3c.github.io/webappsec-dbsc/) - 1 points by gnabgib
+[2025-07-30T13:32:23Z] Writing memory efficient C structs (https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html) - 202 points by aragonite
+[2025-07-30T13:16:29Z] Show HN: Nutrition Optimizer (https://matiasmorant.github.io/nutrition/) - 1 points by wvlia5
+[2025-07-30T13:09:27Z] Making Libcurl Work in WebAssembly (https://jeroen.github.io/notes/webassembly-curl/) - 45 points by tambourine_man
+[2025-07-30T08:56:12Z] Hypercube 3d ultimate tic tac toe (https://dhkts1.github.io/ultimate-nd-tictactoe-3d/) - 2 points by dhkts1
+[2025-07-30T08:47:09Z] Do LLMs Identify Fonts? (https://maxhalford.github.io/blog/llm-font-identification/) - 8 points by Lemaxoxo
+[2025-07-30T06:15:51Z] Flexflex Font (https://ronikaufman.github.io/flexflex/) - 4 points by jay_kyburz
+[2025-07-30T05:10:16Z] Show HN: I created a Branched LLM that allows git style branching (https://gupta-aniket.github.io/Mobile-developer/hire/#projects#branched-llm-mvp) - 1 points by aniket-gupta
+[2025-07-30T02:37:56Z] SOTA multilingual TTS with zero-shot voice cloning and speaking style control (https://inworld-ai.github.io/tts/) - 2 points by selvan
+[2025-07-29T23:32:10Z] PHP-ORT: Machine learning inference for the web (https://krakjoe.github.io/ort/) - 88 points by Bogdanp
+[2025-07-29T20:57:56Z] Show HN: SBoMPlay – Client side SBoM explorer (https://cyfinoid.github.io/sbomplay/) - 2 points by anantshri
+[2025-07-29T20:41:55Z] TeXmacs Typesetter: From Trees to Boxes (https://texmacs.github.io/notes/docs/texmacs-basics-of-typesetting.html) - 4 points by amichail
+[2025-07-29T20:00:39Z] Scraping German Rental Price Data – Part I: Whole Lotta Captchas (https://layandreas.github.io/personal-blog/posts/scraping-wg-gesucht-part-i/) - 3 points by wismwasm
+[2025-07-29T18:11:08Z] Show HN: Click the Circle (https://tb-peregrine.github.io/circle-click-game/) - 2 points by _peregrine_
+[2025-07-29T16:38:27Z] Ring: Simple and flexible programming language for applications development (https://ring-lang.github.io/) - 3 points by jerlendds
+[2025-07-29T16:28:41Z] Create beautiful interactive subway maps, then ride them (https://jabza.github.io/rail-art/) - 4 points by jabza
+[2025-07-29T15:44:45Z] Flexflex – a typeface that responds to spatial requirements (https://ronikaufman.github.io/flexflex/) - 2 points by microflash
+[2025-07-29T15:19:55Z] Mathematical Typesetting in TeXmacs (https://texmacs.github.io/notes/docs/texmacs-math-typesetting.html) - 18 points by amichail
+[2025-07-29T14:04:02Z] Making Libcurl Work in WebAssembly (https://jeroen.github.io/notes/webassembly-curl/) - 8 points by datajeroen
+[2025-07-29T07:02:37Z] Show HN: Walk-through of rocket landing optimization paper [pdf] (https://scpowers.github.io/pdfs/rocket_landing.pdf) - 16 points by scpowers
+[2025-07-28T20:42:27Z] DeltaNet Explained (https://sustcsonglin.github.io/blog/2024/deltanet-1/) - 1 points by jxmorris12
+[2025-07-28T19:05:47Z] Different Clocks (https://ianto-cannon.github.io/clock.html) - 243 points by pppone
+[2025-07-28T18:27:27Z] React-three/viverse – for react and vanilla threejs (https://pmndrs.github.io/viverse/) - 1 points by BelaBohlender
+[2025-07-28T16:30:25Z] Testing the GCC-based Rust compiler(back end) (https://fractalfir.github.io/generated_html/cg_gcc_bootstrap_2.html) - 2 points by todsacerdoti
+[2025-07-28T16:27:13Z] Show HN: I Built a Tool to Visualize Claude Code's LLM Interactions (https://yuyz0112.github.io/claude-code-reverse/visualize.html) - 1 points by yz-yu
+[2025-07-28T14:51:27Z] StackSafe: Taming Recursion in Rust Without Stack Overflow (https://fast.github.io/blog/stacksafe-taming-recursion-in-rust-without-stack-overflow/) - 1 points by lukastyrychtr
+[2025-07-28T14:39:34Z] Neural Importance Sampling of Many Lights (https://pedrovfigueiredo.github.io/projects/manylights/SIGGRAPH_2025_Importance_Sampling/index.html) - 1 points by ibobev
+[2025-07-28T10:16:59Z] Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights (https://jerryliang24.github.io/DnD/) - 1 points by victormustar
+[2025-07-28T08:07:26Z] Bringing Together Clazy and Clang-Tidy (https://alex1701c.github.io/2025/07/27/clazy-clangtidy.html) - 2 points by todsacerdoti
+[2025-07-28T08:02:47Z] Rust Changelog #296 (https://rust-analyzer.github.io//thisweek/2025/07/28/changelog-296.html) - 1 points by amalinovic
+[2025-07-27T22:29:39Z] Chord/Harmony Finder App (In-Browser) (https://evanczako.github.io/ChordFinder2/) - 4 points by DoughyDoughBoi
+[2025-07-27T18:07:03Z] H-Nets – The Past and Future (https://goombalab.github.io/blog/2025/hnet-past/) - 3 points by vagabund
+[2025-07-27T17:27:26Z] Show HN: Windows 7 GUI for the web (https://khang-nd.github.io/7.css/) - 174 points by khangnd
+[2025-07-27T14:42:03Z] The Par Programming Language (https://faiface.github.io/par-lang/) - 15 points by fanf2
+[2025-07-27T14:36:08Z] Weight Agnostic Neural Networks (https://weightagnostic.github.io) - 5 points by bob1029
+[2025-07-27T12:25:28Z] OverHAuL: Harnessing Automation for C Libraries with Large Language Models (https://kchousos.github.io/BSc-Thesis/) - 2 points by todsacerdoti
+[2025-07-27T11:05:16Z] Playing with Gemini CLI: Riddles, Magic and Some Security Vibes (https://veganmosfet.github.io/2025/07/27/geminicli.html) - 3 points by veganmosfet
+[2025-07-27T08:43:36Z] Four ways of declaring interfaces in Haskell (http://marcosh.github.io/post/2025/07/22/four-ways-of-declaring-interfaces-in-haskell.html) - 6 points by yehoshuapw
+[2025-07-27T07:38:27Z] Channel-level EEG analysis systematically misattributes cortical source (https://neuromechanist.github.io/papers/uecog-2025/) - 4 points by lentoutcry
+[2025-07-27T01:33:34Z] Show HN: Like to cut wood? Make up cut lists faster with Board Cut Calculator (https://johnjones4.github.io/board-cut-calculator/) - 3 points by johnjones4
+[2025-07-26T21:18:38Z] OCaml Programming: Correct and Efficient and Beautiful (https://cs3110.github.io/textbook/cover.html) - 138 points by smartmic
+[2025-07-26T19:59:00Z] The Sail instruction-set semantics specification language (https://alasdair.github.io/manual.html) - 50 points by weinzierl
+[2025-07-26T18:12:18Z] Categorization of Collatz numbers into 8 classes (https://gbragafibra.github.io/2025/07/26/collatz_ant9.html) - 12 points by Fibra
+[2025-07-26T17:56:33Z] Futureproof Static Memory Planning [pdf] (https://cappadokes.github.io/assets/files/work_sample.pdf) - 3 points by romesmoke
+[2025-07-26T17:32:11Z] Reversing the C64 Bubble Bobble RNG (http://geon.github.io/programming/2025/07/24/bubble-bobble-c64-rng-emulator) - 3 points by Bogdanp
+[2025-07-26T17:00:59Z] Shakti (K9) Tutorial (https://estradajke.github.io/k9-simples/k9/index.html) - 2 points by liveranga
+[2025-07-26T12:29:19Z] Show HN: Simple Jekyll Theme (https://niklasbuschmann.github.io/contrast/) - 1 points by niklasbuschmann
+[2025-07-26T12:25:47Z] Find the Coldplay Canoodlers (https://songadaymann.github.io/coldplay-canoodle/) - 3 points by avipars
+[2025-07-26T11:37:50Z] The Missing 20%: Why Agentic Systems Need Built-In Control (https://fsilavong.github.io/blog/2025/07/26/the-missing-20-why-agentic-systems-need-built-in-control/) - 3 points by fsilavong
+[2025-07-26T10:08:09Z] Rust running on every GPU (https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/) - 605 points by littlestymaar
+[2025-07-26T08:52:22Z] Bluesky's ATProto and the race to the bottom of the brain stem (https://erasmus.github.io/2025/bluesky-great-social-splintering/) - 3 points by erasmus
+[2025-07-26T07:43:28Z] Blending education and artificial intelligence technology (https://ikignosis.github.io/) - 1 points by joaompinto
+[2025-07-26T00:14:20Z] Show HN: StackSafe, Taming Recursion in Rust Without Stack Overflow (https://fast.github.io/blog/stacksafe-taming-recursion-in-rust-without-stack-overflow/) - 2 points by tison
+[2025-07-25T21:22:22Z] AIDE – a file and directory integrity checker (https://aide.github.io/) - 10 points by smartmic
+[2025-07-25T20:17:28Z] eBPF: Handling Events in Userspace (https://h0x0er.github.io/blog/2025/07/26/ebpf-handling-events-in-userspace/) - 2 points by forxtrot
+[2025-07-25T20:16:55Z] Rust Running on Every GPU (https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/) - 16 points by hyperbrainer
+[2025-07-25T20:11:09Z] Car Hacking: How to Hack Hazard Lights with Arduino and an MCP2515 (https://leandrobalta.github.io/car-blink-hack/) - 4 points by SchwKatze
+[2025-07-25T17:20:20Z] Implementing a functional language with graph reduction (2021) (https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html) - 52 points by Bogdanp
+[2025-07-25T16:22:18Z] Anthropic's 9000-pound fictional hippo (https://zswitten.github.io/2025/05/23/gustav-fictional-hippo.html) - 3 points by Areibman
+[2025-07-25T15:46:57Z] Show HN: Configurable parser from binary message to JSON (and viceversa) (https://gitubo.github.io/bixit/) - 2 points by maxmosca
+[2025-07-25T14:33:56Z] Physics-Based Simulation Free Online Book (https://phys-sim-book.github.io/) - 3 points by s-macke
+[2025-07-25T06:26:59Z] The Hunt for the Fastest Zero (2020) (https://travisdowns.github.io/blog/2020/01/20/zero.html) - 1 points by aragonite
+[2025-07-25T00:09:55Z] InstructVLA: Vision-Language-Action Instruction Tuning (https://yangs03.github.io/InstructVLA_Home/) - 2 points by chrsw
+[2025-07-24T20:31:30Z] Toad – a universal UI for agentic coding in the terminal (https://willmcgugan.github.io/announcing-toad/) - 3 points by ossusermivami
+[2025-07-24T20:29:30Z] Efficient Streaming of Markdown in the Terminal (https://willmcgugan.github.io/streaming-markdown/) - 1 points by ossusermivami
+[2025-07-24T18:46:52Z] The WebSocket Protocol Explained (https://sachin9996.github.io/websocket-frames-explained/) - 18 points by sachin9996
+[2025-07-24T18:36:09Z] Datavzrd – a low-code interactive reporting tool for tabular datasets (https://datavzrd.github.io/) - 2 points by yoz
+[2025-07-24T17:19:17Z] Moreutils: The utilities package every Unix/Linux/Mac OS developer should know (https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - 2 points by gurjeet
+[2025-07-24T16:42:41Z] Qwen-MT: Where Speed Meets Smart Translation (https://qwenlm.github.io/blog/qwen-mt/) - 2 points by jasonjmcghee
+[2025-07-24T16:16:22Z] I wrote the worlds worst emulator to reverse engineer the c64 Bubble Bobble RNG (http://geon.github.io/programming/2025/07/24/bubble-bobble-c64-rng-emulator) - 1 points by geon
+[2025-07-24T14:16:26Z] Java Async Profiler manual by use cases (2022) (https://krzysztofslusarski.github.io/2022/12/12/async-manual.html) - 2 points by tanelpoder
+[2025-07-24T12:30:17Z] StackSafe: Taming recursion in Rust without stack overflow (https://fast.github.io/blog/stacksafe-taming-recursion-in-rust-without-stack-overflow/) - 18 points by andylokandy
+[2025-07-24T12:04:19Z] Show HN: Reviving the Mailbox app nostalgia by rebooting a 0 inbox mail app (https://two-trick-pony-nl.github.io/PostFach/) - 1 points by TwoTrickPony
+[2025-07-24T11:19:57Z] Music Generating Tool Without AI (https://surikov.github.io/rockdice/main.html) - 1 points by sss1024
+[2025-07-24T10:15:43Z] Efficient Streaming of Markdown in the Terminal (https://willmcgugan.github.io/streaming-markdown/) - 2 points by samwillis
+[2025-07-24T00:59:58Z] Name SF Streets (https://carvin.github.io/sf-street-names/) - 1 points by kelnos
+[2025-07-23T19:40:47Z] DeLLMa: Decision Making Under Uncertainty with Large Language Models (https://dellma.github.io/) - 3 points by giuliomagnifico
+[2025-07-23T18:59:29Z] Notable People (Map) (https://tjukanovt.github.io/notable-people) - 2 points by rmason
+[2025-07-23T18:35:34Z] URL to PNG (https://jasonraimondi.github.io/url-to-png/) - 3 points by LorenDB
+[2025-07-23T16:02:13Z] Toad – a universal UI for agentic coding in the terminal (https://willmcgugan.github.io/announcing-toad/) - 16 points by willm
+[2025-07-23T12:14:50Z] Python Free-Threading Guide (https://py-free-threading.github.io/) - 2 points by ngoldbaum
+[2025-07-23T11:34:41Z] Font-size-adjust Is Useful (https://matklad.github.io/2025/07/16/font-size-adjust.html) - 180 points by Bogdanp
+[2025-07-23T10:45:56Z] Short Google (https://tompccs.github.io/blog/2025/07/23/short-google.html) - 8 points by tompccs
+[2025-07-23T09:12:44Z] Show HN: Best Rejected Papers (https://deneutoy.github.io/best-rejected-papers/) - 1 points by deneutoy
+[2025-07-23T07:47:00Z] Display Next Hackfest 2025 (https://zamundaaa.github.io/wayland/2025/07/22/display-next-hackfest-2025.html) - 2 points by Bogdanp
+[2025-07-23T07:11:40Z] Is AI Turning Engineers into Managers? (https://7ynk3r.github.io/2025/07/22/ai-turning-engineers-into-engineering-managers/) - 2 points by 7ynk3r
+[2025-07-23T06:27:17Z] Portal Explorer (https://optozorax.github.io/portal/) - 1 points by Trung0246
+[2025-07-22T22:56:55Z] Algorithms for Modern Processor Architectures (https://lemire.github.io/talks/2025/sea/sea2025.html) - 290 points by matt_d
+[2025-07-22T21:12:30Z] Qwen3-Coder: Agentic coding in the world (https://qwenlm.github.io/blog/qwen3-coder/) - 765 points by danielhanchen
+[2025-07-22T20:02:25Z] Raku: First Programming Language? (https://wayland.github.io/blog/raku/ReachingOut/Raku-First-Language.xml) - 3 points by TheWiggles
+[2025-07-22T18:54:05Z] I watched Gemini CLI hallucinate and delete my files (https://anuraag2601.github.io/gemini_cli_disaster.html) - 304 points by anuraag2601
+[2025-07-22T18:15:14Z] P Verified (https://b-hilprecht.github.io/2025/07/10/p-verified-log-1-the-need-for-verification.html) - 2 points by Bogdanp
+[2025-07-22T16:39:13Z] Chess Llama (https://lazy-guy.github.io/chess-llama/) - 2 points by amrrs
+[2025-07-22T14:41:53Z] The Sounds of MRI (2024) (https://larsonlab.github.io/The-Sounds-of-MRI/) - 4 points by dcminter
+[2025-07-22T13:35:03Z] Font-size-adjust Is Useful (https://matklad.github.io/2025/07/16/font-size-adjust.html) - 4 points by surprisetalk
+[2025-07-22T12:01:46Z] Intro to Par, an experimental language with structural linear types and duality (https://faiface.github.io/par-lang/introduction.html) - 2 points by faiface
+[2025-07-22T10:52:41Z] Notable People Globe (https://tjukanovt.github.io/notable-people) - 1 points by Malfunction92
+[2025-07-22T10:00:29Z] LLM Just Got Pwned: The Hidden Danger in MCP Sampling (https://yassworks.github.io/Malicious-MCP-Server/) - 1 points by YassWorks
+[2025-07-22T08:42:05Z] Bringing runtime index checks to compile time in Rust (https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/) - 8 points by fanf2
+[2025-07-22T07:02:52Z] How much code does that proc macro generate? (https://nnethercote.github.io/2025/06/26/how-much-code-does-that-proc-macro-generate.html) - 2 points by luu
+[2025-07-22T02:27:59Z] Fast(er)API: Optimizing Processing Time (https://fabridamicelli.github.io/posts/optimize-fastapi.html) - 1 points by hunvreus
+[2025-07-21T19:32:25Z] Building iBoot (https://nyansatan.github.io/building-iboot/) - 2 points by lr0
+[2025-07-21T03:42:06Z] Browse the web in Markdown using an HTML->Markdown language model (https://leidnedya.github.io/markweb/) - 1 points by otherayden
+[2025-07-21T00:09:23Z] Chess Llama – Training a tiny Llama model to play chess (https://lazy-guy.github.io/blog/chessllama/) - 5 points by thunderbong
+[2025-07-20T23:17:00Z] Type-level programming for safer resource management (https://frasertweedale.github.io/blog-fp/posts/2025-07-19-type-nats-and-constraints.html) - 4 points by Bogdanp
+[2025-07-20T20:01:01Z] Show HN: Daily AI Times (https://siddanthemani.github.io/daily-ai-times/) - 3 points by SiddanthEmani
+[2025-07-20T18:31:11Z] Google DeepMind Formal Conjectures (https://google-deepmind.github.io/formal-conjectures/) - 2 points by pmaddams
+[2025-07-20T18:22:26Z] Energy-Based Transformers Are Scalable Learners and Thinkers (https://energy-based-transformers.github.io/) - 2 points by simonpure
+[2025-07-20T15:26:26Z] The smooth resize test (2019) (https://raphlinus.github.io/rust/gui/2019/06/21/smooth-resize-test.html) - 3 points by PKop
+[2025-07-20T15:03:56Z] Solving a Childhood Mystery: How BASIC Games Learned to Win (https://sublevelgames.github.io/blogs/2025-07-20-basic-game-hexapawn/) - 73 points by greentec
+[2025-07-20T13:17:09Z] H-Nets – The Past (https://goombalab.github.io/blog/2025/hnet-past/) - 4 points by cubefox
+[2025-07-20T10:22:57Z] ChatGPT Team adds users' name and organization to every prompt (https://ndurner.github.io/chatgpt-team-info-disclosure) - 4 points by ndr_
+[2025-07-20T09:47:42Z] SQL: 2023 Property-Graph Queries in Postgres 18 Beta (https://gavinray97.github.io/blog/postgres-sql-property-graphs) - 1 points by gavinray
+[2025-07-19T19:35:50Z] MicroPie v0.19 released (micro asgi framework) (https://patx.github.io/micropie/) - 1 points by harrisonerd
+[2025-07-19T19:09:45Z] Reinforcement Learning with Nvidia NeMo-RL (https://nvidia-nemo.github.io/blog/2025/07/08/nemo-rl-deepscaler-grpo/) - 3 points by mji
+[2025-07-19T18:50:32Z] Producing Uncompressed PNG Files (https://nigeltao.github.io/blog/2025/uncompressed-png.html) - 6 points by tylerchr
+[2025-07-19T17:02:21Z] Can Tinygrad Win? (https://geohot.github.io//blog/jekyll/update/2025/07/06/can-tinygrad-win.html) - 7 points by abhaynayar
+[2025-07-19T17:00:00Z] The World After Wireheading (https://geohot.github.io//blog/jekyll/update/2025/07/18/the-world-after-wireheading.html) - 5 points by abhaynayar
+[2025-07-19T16:49:29Z] Mapping Out the Library of Babel (https://carlnewton.github.io/posts/library-of-babel/) - 2 points by carlnewton
+[2025-07-19T14:44:17Z] Extending Iterated, Spatialized Prisoners Dilemma to Understand Multicellularity (https://lksshw.github.io/) - 1 points by ca98am79
+[2025-07-19T14:02:42Z] Experimenting with SQL:2023 Property-Graph Queries in Postgres 18 (https://gavinray97.github.io/blog/postgres-sql-property-graphs) - 2 points by gavinray
+[2025-07-19T13:45:07Z] Kimi K2: Open Agentic Intelligence (https://moonshotai.github.io/Kimi-K2/) - 3 points by tosh
+[2025-07-19T08:42:04Z] Historic tale construction kit: make your own Bayeux tapestry (https://htck.github.io/bayeux/) - 5 points by fanf2
+[2025-07-19T02:21:17Z] The 6 Tools, and a workflow to build using AI (https://kaushalvivek.github.io/) - 1 points by amrrs
+[2025-07-18T22:21:10Z] Show HN: Numbl – A daily number puzzle inspired by Wordle and Sudoku (https://henryjburg.github.io/numbl/) - 2 points by henryjburg
+[2025-07-18T21:02:40Z] Benchmarking Haskell dataframes against Python dataframes (https://mchav.github.io/benchmarking-haskell-dataframes/) - 10 points by romes
+[2025-07-18T20:32:47Z] Hush: Holistic Panoramic 3D Scene Understanding Using Spherical Harmonics (https://vision3d-lab.github.io/hush/) - 15 points by PaulHoule
+[2025-07-18T19:15:45Z] Great Tables: The Polars DataFrame Styler of Your Dreams (https://posit-dev.github.io/great-tables/blog/polars-styling/) - 9 points by radus
+[2025-07-18T15:17:04Z] Show HN: A tool to play with prime-generating functions and patterns (https://ilmenit.github.io/prime-fold/) - 1 points by ilmenit
+[2025-07-18T11:48:43Z] Show HN: Presentations at the Speed of Markdown (https://slidesdown.github.io) - 1 points by jceb81
+[2025-07-18T10:18:22Z] You don't need CGO to use SQLite in your Go binary (https://hiandrewquinn.github.io/til-site/posts/you-don-t-need-cgo-to-use-sqlite-in-your-go-binary/) - 3 points by hiAndrewQuinn
+[2025-07-18T09:44:08Z] Nicholas Nethercote – I am a Rust compiler engineer looking for a new job (https://nnethercote.github.io/2025/07/18/looking-for-a-new-job.html) - 6 points by AndrewDucker
+[2025-07-18T08:30:49Z] H-Nets – The Future (https://goombalab.github.io/blog/2025/hnet-future/) - 3 points by cubefox
+[2025-07-18T05:34:29Z] Intermediate Zig Build (https://rdunnington.github.io/blog/2025-07-17/page) - 2 points by rdunnington
+[2025-07-18T02:24:15Z] Fixing a Direct3D9 bug in Far Cry (2018) (https://houssemnasri.github.io/2018/07/07/farcry-d3d9-bug/) - 65 points by anotherhue
+[2025-07-18T02:23:29Z] Use Pipx to Install Aider and Other Non-System-Managed Python Packages on Linux (https://supracarol.github.io/2025/07/17/install-aider-with-pipx.html) - 3 points by supracarol
+[2025-07-17T17:28:30Z] Unofficial Bevy Cheat Book (https://bevy-cheatbook.github.io/) - 3 points by brson
+[2025-07-17T14:43:10Z] Reverse Engineering the Miele Diagnostic Interface (https://medusalix.github.io/posts/miele-interface/) - 23 points by Medusalix
+[2025-07-17T14:41:22Z] Life Update – On Health (https://jiha-kim.github.io/posts/life-update-on-health/) - 1 points by jxmorris12
+[2025-07-17T13:51:26Z] Planning, Boxing, Philosophy: An Apology (https://cappadokes.github.io/jekyll/update/2025/07/16/welcome-to-jekyll.html) - 2 points by romesmoke
+[2025-07-17T12:28:23Z] Gccrs June 2025 monthly report (https://rust-gcc.github.io/2025/07/17/2025-06-monthly-report.html) - 3 points by Bogdanp
+[2025-07-17T07:28:35Z] DemandCast – open-source Global hourly electricity demand forecasting (https://open-energy-transition.github.io/demandcast/) - 3 points by protontypes
+[2025-07-17T06:56:15Z] Gradual negation types and the Python type system (https://jellezijlstra.github.io/negation-types.html) - 2 points by GalaxySnail
+[2025-07-16T20:11:31Z] Least squares and least absolute deviations (https://niklasbuschmann.github.io/least-squares-least-absolute-deviation/) - 1 points by niklasbuschmann
+[2025-07-16T18:39:58Z] Font-size-adjust Is Useful (https://matklad.github.io/2025/07/16/font-size-adjust.html) - 4 points by ibobev
+[2025-07-16T18:14:19Z] Show HN: Doctor (https://merkoba.github.io/Doctor/) - 2 points by complex_city
+[2025-07-16T16:52:11Z] Zig Interface Revisited (https://williamw520.github.io/2025/07/13/zig-interface-revisited.html) - 98 points by ww520
+[2025-07-16T14:59:07Z] Global hourly electricity demand forecasting (https://open-energy-transition.github.io/demandcast/) - 3 points by protontypes
+[2025-07-16T14:28:58Z] Valuing Assets with Different Volatilities (https://niklasbuschmann.github.io/valuations/) - 1 points by niklasbuschmann
+[2025-07-16T14:25:54Z] A Sloth could do complex tasks in NixOS (https://lemosjose.github.io/nixos-made-me-lazy/) - 3 points by voidjl
+[2025-07-16T14:21:20Z] A Treatise for One Network – Anonymous National Deliberation [pdf] (https://simurgh-beau.github.io/) - 13 points by simurgh_beau
+[2025-07-16T12:54:59Z] A PhD's Apology (https://cappadokes.github.io/jekyll/update/2025/07/16/welcome-to-jekyll.html) - 2 points by romesmoke
+[2025-07-16T11:49:53Z] Making Project Work Better with R (https://topepo.github.io/2025-ncb-workshop/) - 2 points by the-mitr
+[2025-07-16T10:35:25Z] Cheeky Python Shell Script (https://leontrolski.github.io/python-script.html) - 3 points by leontrolski
+[2025-07-16T06:15:56Z] Curvine: High-Performance Distributed Cache Now Open Source (https://curvineio.github.io/blog/) - 2 points by Curvine
+[2025-07-15T20:10:45Z] Collatz's Tape (https://gbragafibra.github.io/2025/07/12/collatz_ant8.html) - 1 points by Fibra
+[2025-07-15T17:02:23Z] Show HN: Open-source GUI editor for JSON and function call schema (https://anusarati.github.io/json-schema-builder/) - 1 points by xingzheli
+[2025-07-15T16:16:25Z] H-Net – Inference (https://main-horse.github.io/posts/hnet-inf/) - 2 points by jxmorris12
+[2025-07-15T15:12:20Z] Defeating Memory Leaks with Zig Allocators (https://tgmatos.github.io/defeating-memory-leaks-with-zig-allocators/) - 16 points by gilgamesh3
+[2025-07-15T13:39:10Z] A New Record in Self-Cleaning Turing Machines (https://nickdrozd.github.io/2021/07/11/self-cleaning-turing-machine.html) - 2 points by Fibra
+[2025-07-15T03:19:02Z] Show HN: Using Multiple GitHub Accounts on the Same Computer (https://aditya24raj.github.io/blogd/using-multiple-github-accounts-on-the-same-computer/) - 2 points by aditya24raj
+[2025-07-14T22:14:43Z] Integer Division in Bucketed Time Series (https://uvdn7.github.io/bucketed-time-series/) - 2 points by uvdn7
+[2025-07-14T21:00:50Z] Introduction to the Par Language (https://faiface.github.io/par-lang/) - 5 points by 4ad
+[2025-07-14T20:46:16Z] Variadic Generics ideas that won't work for Rust (https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/) - 4 points by PaulHoule
+[2025-07-14T19:09:00Z] Collatz's Tape (https://gbragafibra.github.io/2025/07/12/collatz_ant8.html) - 2 points by Fibra
+[2025-07-14T14:57:43Z] Translation using deep neural networks – Transformer (https://aamster.github.io/blog/2025/sequence_to_sequence_models_2/) - 2 points by cosmosa
+[2025-07-14T11:32:28Z] The second wave of spaced repetition apps (https://hiandrewquinn.github.io/til-site/posts/the-second-wave-of-spaced-repetition-apps/) - 2 points by hiAndrewQuinn
+[2025-07-14T09:02:04Z] From Prompt to Plant Shutdown: Agent Context Contamination in MCP (https://veganmosfet.github.io/2025/07/14/prompt_injection_OT.html) - 4 points by veganmosfet
+[2025-07-14T02:10:18Z] IndexTTS2: Emotional duration-controlled autoregressive zero-shot text-to-speech (https://index-tts.github.io/index-tts2.github.io/) - 5 points by satvikpendem
+[2025-07-14T00:09:14Z] Happy 20th Birthday, Django (https://katherinemichel.github.io/portfolio/happy-20th-birthday-django.html) - 1 points by KatiMichel
+[2025-07-13T21:53:26Z] Generating (almost) equally-spaced points along a parabola (https://arjuns07.github.io/posts/07-2025-equidistant-parabolic-points/) - 5 points by sharma-arjun
+[2025-07-13T19:54:19Z] Will all our drugs come from China? (https://atelfo.github.io/2024/12/20/will-all-our-drugs-come-from-china.html) - 5 points by lr0
+[2025-07-13T17:04:57Z] Folly: IOBuf and Zero-Copy Networking (https://uvdn7.github.io/folly-iobuf-and-zero-copy-networking/) - 2 points by gm678
+[2025-07-13T15:06:42Z] Why I got rid of all my Neovim plugins (https://yobibyte.github.io/vim.html) - 2 points by uggedal
+[2025-07-13T15:06:01Z] Water levels and temperatures across Canada (https://aabiji.github.io/html/lakes.html) - 3 points by aabiji
+[2025-07-13T13:36:06Z] Multiplying vectors: An introduction to geometric algebra (https://niklasbuschmann.github.io/geometric-algebra/) - 2 points by niklasbuschmann
+[2025-07-13T13:17:59Z] Structure and Interpretation of the Chinese Economy (https://yuxi-liu-wired.github.io/essays/posts/structure-interpretation-chinese-economy/) - 7 points by canarymark
