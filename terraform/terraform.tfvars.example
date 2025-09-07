@@ -1,0 +1,15 @@
+# Copy this file to terraform.tfvars and fill in your values
+# DO NOT commit terraform.tfvars to version control
+
+# Required variables - must be set
+project_id         = "REPLACE_WITH_YOUR_PROJECT_ID"
+papers_bucket_name = "REPLACE_WITH_YOUR_BUCKET_NAME"
+
+# Optional variables with defaults - recommended to set these for your environment
+region             = "us-central1"
+function_name      = "arxiv-papers-scraper-func"    # Default provided, change if needed
+scheduler_job_name = "arxiv-papers-weekly-job"      # Default provided, change if needed
+service_account_id = "arxiv-papers-scheduler-sa"    # Default provided, change if needed
+
+# Note: Even though some variables have defaults, it's recommended to explicitly set 
+# all values in your terraform.tfvars to ensure resource names are unique in your project
