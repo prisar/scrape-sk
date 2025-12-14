@@ -1,10 +1,12 @@
 import requests
 import time
+import csv
+import sys
 
 BASE_URL = "https://hn.algolia.com/api/v1/search_by_date"
 QUERY = "github.io"
 HITS_PER_PAGE = 100
-MAX_PAGES = 3  # Adjust if needed
+MAX_PAGES = 10  # Adjust if needed
 
 def fetch_github_io_stories():
     all_results = []
@@ -43,6 +45,18 @@ def fetch_github_io_stories():
 
 if __name__ == "__main__":
     stories = fetch_github_io_stories()
+
+    # Write CSV to stdout
+    writer = csv.writer(sys.stdout)
+    writer.writerow(['created_at', 'title', 'url', 'points', 'author', 'objectID'])
+
     for s in stories:
-        print(f"[{s['created_at']}] {s['title']} ({s['url']}) - {s['points']} points by {s['author']}")
+        writer.writerow([
+            s['created_at'],
+            s['title'],
+            s['url'],
+            s['points'],
+            s['author'],
+            s['objectID']
+        ])
 
