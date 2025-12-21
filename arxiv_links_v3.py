@@ -72,7 +72,7 @@ def download_topic_pdfs(args):
             else:
                 title = "[Title not found]"
 
-            entries.append([topic_code, pdf_url, title])
+            entries.append([title, pdf_url, topic_code])
             local_count += 1
 
         # Write all entries at once with lock
@@ -126,7 +126,7 @@ if __name__ == '__main__':
     # Create the CSV file with headers
     with open(csv_file_path, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
-        writer.writerow(['Topic', 'Paper PDF URL', 'Title'])
+        writer.writerow(['Title', 'Paper PDF URL', 'Topic'])
 
     topic_entries = scan_topics()
 
