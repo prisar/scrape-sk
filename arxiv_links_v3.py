@@ -42,58 +42,61 @@ def download_topic_pdfs(args):
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        # Find the articles dl element
-        articles_dl = soup.find('dl', id='articles')
-        if not articles_dl:
+        # Find ALL articles dl elements (there can be multiple, one per date)
+        articles_dls = soup.find_all('dl', id='articles')
+        if not articles_dls:
             print(f"No articles found for {topic_code}")
             return 0
 
         local_count = 0
         entries = []
-        current_date = "[Date not found]"
 
-        # Iterate through all children of the dl element
-        for element in articles_dl.children:
-            # Skip text nodes
-            if not hasattr(element, 'name'):
-                continue
+        # Iterate through each dl element (each represents a different date)
+        for articles_dl in articles_dls:
+            current_date = "[Date not found]"
 
-            # Check if it's an h3 tag (date header)
-            if element.name == 'h3':
-                date_text = element.get_text().strip()
-                # Extract date from format like "Mon, 15 Dec 2025 (showing 101 of 101 entries )"
-                date_match = re.search(r'(\w+,\s+\d{1,2}\s+\w+\s+\d{4})', date_text)
-                if date_match:
-                    current_date = date_match.group(1)
-                continue
-
-            # Check if it's a dt tag (paper entry)
-            if element.name == 'dt':
-                # Find the PDF link in the dt tag
-                pdf_link_tag = element.find('a', attrs={"title": "Download PDF"})
-                if not pdf_link_tag:
+            # Iterate through all children of this dl element
+            for element in articles_dl.children:
+                # Skip text nodes
+                if not hasattr(element, 'name'):
                     continue
 
-                pdf_link = pdf_link_tag.get('href')
-                if not pdf_link:
+                # Check if it's an h3 tag (date header)
+                if element.name == 'h3':
+                    date_text = element.get_text().strip()
+                    # Extract date from format like "Mon, 15 Dec 2025 (showing 101 of 101 entries )"
+                    date_match = re.search(r'(\w+,\s+\d{1,2}\s+\w+\s+\d{4})', date_text)
+                    if date_match:
+                        current_date = date_match.group(1)
                     continue
 
-                paper_id = pdf_link.split('/')[2]
-                pdf_url = f"https://arxiv.org/pdf/{paper_id}.pdf"
+                # Check if it's a dt tag (paper entry)
+                if element.name == 'dt':
+                    # Find the PDF link in the dt tag
+                    pdf_link_tag = element.find('a', attrs={"title": "Download PDF"})
+                    if not pdf_link_tag:
+                        continue
 
-                # Find the title in the next dd sibling
-                dd = element.find_next_sibling('dd')
-                if dd:
-                    title_div = dd.find('div', class_='list-title')
-                    if title_div:
-                        title = title_div.get_text().replace('Title:', '').strip()
+                    pdf_link = pdf_link_tag.get('href')
+                    if not pdf_link:
+                        continue
+
+                    paper_id = pdf_link.split('/')[2]
+                    pdf_url = f"https://arxiv.org/pdf/{paper_id}.pdf"
+
+                    # Find the title in the next dd sibling
+                    dd = element.find_next_sibling('dd')
+                    if dd:
+                        title_div = dd.find('div', class_='list-title')
+                        if title_div:
+                            title = title_div.get_text().replace('Title:', '').strip()
+                        else:
+                            title = "[Title not found]"
                     else:
                         title = "[Title not found]"
-                else:
-                    title = "[Title not found]"
 
-                entries.append([title, pdf_url, topic_code, current_date])
-                local_count += 1
+                    entries.append([title, pdf_url, topic_code, current_date])
+                    local_count += 1
 
         # Write all entries at once with lock
         if entries:
