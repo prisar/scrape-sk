@@ -59,6 +59,7 @@ def download_topic_pdfs(args):
                 continue
 
             paper_id = pdf_link.split('/')[2]
+            pdf_url = f"https://arxiv.org/pdf/{paper_id}.pdf"
 
             # Find the title in the next dd sibling
             dd = dt.find_next_sibling('dd')
@@ -71,7 +72,7 @@ def download_topic_pdfs(args):
             else:
                 title = "[Title not found]"
 
-            entries.append([topic_code, paper_id, title])
+            entries.append([topic_code, pdf_url, title])
             local_count += 1
 
         # Write all entries at once with lock
@@ -125,7 +126,7 @@ if __name__ == '__main__':
     # Create the CSV file with headers
     with open(csv_file_path, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
-        writer.writerow(['Topic', 'Paper ID', 'Title'])
+        writer.writerow(['Topic', 'Paper PDF URL', 'Title'])
 
     topic_entries = scan_topics()
 
