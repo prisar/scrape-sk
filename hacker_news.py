@@ -1,7 +1,8 @@
 import requests
 import time
 import csv
-import sys
+import os
+from datetime import datetime
 
 BASE_URL = "https://hn.algolia.com/api/v1/search_by_date"
 QUERY = "github.io"
@@ -46,17 +47,25 @@ def fetch_github_io_stories():
 if __name__ == "__main__":
     stories = fetch_github_io_stories()
 
-    # Write CSV to stdout
-    writer = csv.writer(sys.stdout)
-    writer.writerow(['created_at', 'title', 'url', 'points', 'author', 'objectID'])
+    output_dir = "data/hackernews"
+    os.makedirs(output_dir, exist_ok=True)
 
-    for s in stories:
-        writer.writerow([
-            s['created_at'],
-            s['title'],
-            s['url'],
-            s['points'],
-            s['author'],
-            s['objectID']
-        ])
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_file = os.path.join(output_dir, f"hackernews_{timestamp}.csv")
+
+    with open(output_file, 'w', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(['created_at', 'title', 'url', 'points', 'author', 'objectID'])
+
+        for s in stories:
+            writer.writerow([
+                s['created_at'],
+                s['title'],
+                s['url'],
+                s['points'],
+                s['author'],
+                s['objectID']
+            ])
+
+    print(f"Wrote {len(stories)} stories to {output_file}")
 
