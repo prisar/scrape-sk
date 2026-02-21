@@ -17,11 +17,13 @@ topic_codes = [
     'cs.PF', 'cs.PL', 'cs.RO', 'cs.SI', 'cs.SE', 'cs.SD', 'cs.SC', 'cs.SY',
     'stat.AP', 'stat.CO', 'stat.ML', 'stat.TH',
     'eess.AS', 'eess.IV', 'eess.SP',
-    'math.DS', 'math.OC', 'math.PR',
-    'astro-ph.IM', 'cond-mat.dis-nn', 'nlin.AO', 'nlin.CD', 'nlin.SI',
+    'math.DS', 'math.OC', 'math.PR', 'math.ST', 'math.FA', 'math.OC', 'math.IT', 'math-ph',
+    'math.CA', 'math.AP', 'math.CO',
+    'astro-ph.IM', 'cond-mat.dis-nn', 'cond-mat.stat-mech', 'nlin.AO', 'nlin.CD', 'nlin.SI', 'quant-ph',
     'physics.app-ph', 'physics.comp-ph', 'physics.data-an', 'physics.ins-det',
     'physics.med-ph', 'physics.optics',
-    'q-fin.MF', 'econ.TH'
+    'q-fin.MF', 'econ.TH',
+    'q-bio.NC'
 ]
 
 execution_timestamp = datetime.today().strftime("%d_%m_%Y_%H_%M")
@@ -33,7 +35,8 @@ def download_topic_pdfs(args):
         return 0
 
     page_size = 1000
-    url = f'https://export.arxiv.org/list/{topic_code}/recent?show={page_size}'
+    #url = f'https://export.arxiv.org/list/{topic_code}/recent?show={page_size}'
+    url = f'https://arxiv.org/list/{topic_code}/recent?show={page_size}'
 
     useragent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36"
 
